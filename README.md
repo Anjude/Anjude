@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java.
-- Welcome To My Site: [anjude.xyz](anjude.xyz)
+- Welcome To My Site: [https://www.anjude.xyz](https://www.anjude.xyz)
 <!--
 **Anjude/Anjude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
