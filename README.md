@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Go.
 - Welcome To My Site: [http://www.anjude.xyz](http://www.anjude.xyz)
 <!--
 **Anjude/Anjude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
