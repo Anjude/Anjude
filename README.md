@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Go.
-- Welcome To My Site: [http://www.anjude.xyz](http://www.anjude.tk)
+- Welcome To My Site: [https://bean-milk.netlify.app](https://bean-milk.netlify.app)
 <!--
 **Anjude/Anjude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
